@@ -1,0 +1,30 @@
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+ <origin>vodafone</origin>
+ <pubdate>05/04/2009</pubdate>
+ <title>redagent</title>
+ <origin>vodafone</origin>
+ <geoform>vector digital data</geoform>
+ <onlink>\\C$\ArcGISDevelopment\Geodatabase\PDA_STD_05_25_2009.gdb</onlink>
+</citeinfo>
+</citation>
+ <descript>
+ <abstract>This dataset represents the mapped polygons developed from the field data for the %SITEDESCR%.</abstract>
+ <purpose>This dataset was created to accompany some stuff.</purpose>
+ </descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+ <begdate>1/1/2011</begdate>
+ <begtime>unknown</begtime>
+ <title>redagent</title>
+ <enddate>1/1/2011</enddate>
+ <endtime>unknown</endtime>
+ </rngdates>
+ </timeinfo>
+ <current>groundcondition</current>
+ </timeperd>
+</idinfo>
+</metadata>
