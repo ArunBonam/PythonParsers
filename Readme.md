@@ -6,7 +6,7 @@ This python script replaces the values of the tags in xml
 
 running instructions:
 
-python xmlparser.py <xml file name> <json file name>
+python xmlparser.py xml_file_name json_file_name
   
 xmlfile and jsonfile needs to be placed in resources folder
 
